@@ -1,4 +1,4 @@
-# my_message_generator
+# My Message Generator
 
 Random message generator from three different data sources:
 - short excerpt from Shakespeare's King Henry IV Act 1 Scene 1
